@@ -80,6 +80,7 @@
 
 基于[version 3.11.3](https://github.com/nlohmann/json/releases/tag/v3.11.3)
 
+[深入解析C++ JSON库：nlohmann::json:: parse的内部机制与应用](https://blog.csdn.net/qq_21438461/article/details/131915997)
 
 
 ## Design goals
